@@ -4,6 +4,10 @@ Use this skeleton application to quickly setup and start working on a new Slim F
 
 This skeleton application was built for Composer. This makes setting up a new Slim Framework application quick and easy.
 
+## Deploy via One-Click
+
+[![Deploy to Scalingo](https://cdn.scalingo.com/deploy/button.svg)](https://dashboard.scalingo.com/create/app?source=https://github.com/Scalingo/sample-php-slim#master)
+
 ## Install the Application
 
 Run this command from the directory in which you want to install your new Slim Framework application.

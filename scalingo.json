@@ -1,0 +1,8 @@
+{
+    "name": "Sample PHP with Slim framework 3",
+    "description": "Sample PHP application using Slim framework 3",
+    "logo": "https://scalingo.com/logo.svg",
+    "repository": "https://github.com/Scalingo/sample-php-slim",
+    "website": "https://php-slim.is-easy-on-scalingo.com/"
+  }
+  
